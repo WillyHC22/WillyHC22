@@ -1,2 +1,2 @@
 👋 Hi, I’m @WillyHC22
-I'm a MPhil Student at HKUST, currently studying natural language processing
+My name is Willy, I am an French engineer graduated with a Master of Engineering in applied mathematics and a Master of Philosophy in Natural Language Processing, with a specific interest in machine learning and data science. With a track-record of publications in NLP conferences (ACL, INTERSPEECH, EMNLP), I am passionate about unifying state-of-the-art scientific research with actionable engineering usage to develop products and services
